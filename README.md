@@ -1,6 +1,9 @@
 # About me
 
-Hi, I am **Andesong**. 
+
+Hi, I am <img src="https://raw.githubusercontent.com/lllyin/assets/master/images/lyin_text_white2.png" width="70" height="auto" /> .
+
+
 
  - 🍰 I’m currently working on web development
  - 🌈 I’m currently learning Vue.js , React
